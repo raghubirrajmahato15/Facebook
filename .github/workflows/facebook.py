@@ -359,10 +359,10 @@ class LoginAutomation:
     # Function to choose between single user or multi-user attack
     def choose_attack_type(self):
         print("Choose the attack type:")
-        print("1. Single User Login")
-        print("2. Multi-User Login")
+        print("1. Single User attack")
+        print("2. Multi-User multi")
 
-        attack_type = input("Enter the Login type (1 or 2): ")
+        attack_type = input("Enter the attack type (1 or 2): ")
         if attack_type == "1":
             asyncio.run(self.automate_single_user_login())
         elif attack_type == "2":
