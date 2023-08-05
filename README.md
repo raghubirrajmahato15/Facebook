@@ -1,5 +1,5 @@
 # Facebook
-this is only for educational use so dont use it to commint any crime.
+Note: this is only for educational use so dont use it to commint any crime.
 
 
 
@@ -29,3 +29,6 @@ For creating the username
 
 
 python3 user.py
+
+
+Install Selenium Webdriver and chrome driver to run this tool
