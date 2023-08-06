@@ -8,11 +8,6 @@ sudo apt install gdebi-core
 sudo gdebi google-chrome-stable_current_amd64.deb
 sudo apt update
 
-
-# Uninstall existing packages
-sudo apt remove -y chromium-browser chromium-chromedriver python3-pip tesseract-ocr tesseract-ocr-eng
-
-
 # Install required packages
 sudo apt install -y python3 python3-pip tesseract-ocr tesseract-ocr-eng
 
