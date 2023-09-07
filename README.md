@@ -12,7 +12,7 @@ cd Facebook
 chmod +x setup.sh
 
 
-sudo ./setup.sh
+./setup.sh
 
 
 python3 facebook.py
